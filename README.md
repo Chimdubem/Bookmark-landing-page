@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [bookmark-chimdubem.netlify.app](https://bookmark-chimdubem.netlify.app)
+- Live Site URL: [bookmark-chimdubem.netlify.app](https://github.com/Chimdubem/Bookmark-landing-page)
 
 ## My process
 
